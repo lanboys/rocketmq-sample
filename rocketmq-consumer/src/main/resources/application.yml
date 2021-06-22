@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rocketmq-consumer
+
+logging:
+  level:
+    com.bing.lan.rocketmq: debug
